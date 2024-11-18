@@ -18,6 +18,18 @@
 
 ### 👨‍💻: Обо мне :
 
-- 🧠 факт обо мне
-- 👨‍✈️ факт обо мне
-- 🚴‍♂️ факт обо мне
+- 🧠 MPT Student
+
+- 🎮 Dota2 player)
+
+- *️⃣ Frontend Developer
+
+### 🛠️ Языки и инструменты :
+
+<div>
+  <img scr"https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img scr"https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img scr="https://https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img scr="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/>
+  <img scr="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/>
+</div>
