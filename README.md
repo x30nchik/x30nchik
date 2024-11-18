@@ -45,3 +45,9 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x30nchik" alt=""/>
 </div>
+
+### 📊 Статистика активности :
+
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=x30nchik&bg_color=0d1117&color=949bff&line=ffffff&point=7c8bfe&area=true&hide_border=true" alt=""/>
+</div>
