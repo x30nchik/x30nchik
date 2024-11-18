@@ -34,3 +34,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/>
 </div>
 
+### 🏆 Достижения :
+
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=x30nchik" alt=""/>
+</div>
